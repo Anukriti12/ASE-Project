@@ -123,11 +123,9 @@ def domain_registration(url):
         return 0
 
 def favicon(url):
-    #ongoing
     return 0
 
 def port(url):
-    #ongoing
     return 0
 
 def https_token(url):
@@ -239,7 +237,6 @@ def Links_in_tags(url):
         return 0
 
 def sfh(url):
-    #ongoing
     return 0
 
 def email_submit(url):
@@ -254,23 +251,18 @@ def email_submit(url):
         return 0
 
 def abnormal_url(url):
-    #ongoing
     return 0
 
 def redirect(url):
-    #ongoing
     return 0
 
 def on_mouseover(url):
-    #ongoing
     return 0
 
 def rightClick(url):
-    #ongoing
     return 0
 
 def popup(url):
-    #ongoing
     return 0
 
 def iframe(url):
@@ -292,35 +284,26 @@ def age_of_domain(url):
         return 0
         
 def dns(url):
-    #ongoing
     return 0
 
 def web_traffic(url):
-    #ongoing
     return 0
 
 def page_rank(url):
-    #ongoing
     return 0
 
 def google_index(url):
-    #ongoing
     return 0
 
 
 def links_pointing(url):
-    #ongoing
     return 0
 
 def statistical(url):
-    #ongoing
     return 0
 
 def main(url):
 
-
-    
-    
     check = [[url_having_ip(url),url_length(url),url_short(url),having_at_symbol(url),
              doubleSlash(url),prefix_suffix(url),sub_domain(url),SSLfinal_State(url),
               domain_registration(url),favicon(url),port(url),https_token(url),request_url(url),
